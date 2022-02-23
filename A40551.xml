@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and perfect account of the state and condition of the Province of Ulster in Ireland in a letter from Wexford of the 15th of January, 1689/90.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40551</idno>
+            <idno type="STC">Wing F2289B</idno>
+            <idno type="STC">ESTC R9460</idno>
+            <idno type="EEBO-CITATION">13744167</idno>
+            <idno type="OCLC">ocm 13744167</idno>
+            <idno type="VID">101690</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101690)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and perfect account of the state and condition of the Province of Ulster in Ireland in a letter from Wexford of the 15th of January, 1689/90.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Younge ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Ulster (Northern Ireland and Ireland) --  History --  17th century.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101690:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:101690:1"/>
+            <head>A Full and Perfect ACCOUNT OF THE State and Condition OF THE <hi>Province of Vlſter in Ireland:</hi> In a LETTER from WEXFORD Of the <hi>15th</hi> of <hi>January,</hi> 1689/0.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed and Entred according to Order.</p>
+               </body>
+            </floatingText>
+            <div type="letter">
+               <opener>
+                  <salute>Dear Brother,</salute>
+               </opener>
+               <p>I Make uſe of this opportunity of this ſmall Veſſel entred, for <hi>France,</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o let you know the ſad Condition we who are in theſe parts are in: Both Proteſtants and Papiſts are quite weary of their Government, we are all ſo oppreſſed with Souldiers: they have hard<g ref="char:EOLhyphen"/>ly left an Engliſhman the value of a Far<g ref="char:EOLhyphen"/>thing; and ſuch Waſt is committed by them, that we all dread a Famine next Summer; ſo that we are all a thinking to get away as ſoon as the weather may fa<g ref="char:EOLhyphen"/>vour, and the nights grow ſhorter a we have here a Fiſher-boat by our houſe, which will make a hard ſhift for that purpoſe. I have often repented my riot going over with you; all you have here, as well as of all Abſenters is Seized, and the old Proprie<g ref="char:EOLhyphen"/>tors are got into part; the reſt King <hi>James</hi> keeps for thoſe who Beli<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve themſelves well this next Campagne. I have no great reaſon to fear any great effect it will make upon their Courage. For one while the Proteſtants were all in <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayl, which gave the Villains an opportunity to plunder their Houſes, and Rifle them of what they had<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> preſent they <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> out, but how
+<pb n="2" facs="tcp:101690:2"/> they will ſubſiſt I know not in the condi<g ref="char:EOLhyphen"/>tion they are in, and now that Proviſions are growing dear. I am endeavouring to diſpoſe of what little I had, in order to come off, but here is not a penny of Mo<g ref="char:EOLhyphen"/>ney to be had for Goods; we are forced to give eight or ten ſhillings in the pound to exchange Braſs for Silver, and glad we can meet with it ſo to.</p>
+               <p>Here are very few or no <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lows <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>going, the ſilly Iriſh never thinking of the mor<g ref="char:EOLhyphen"/>row, or what Miſery muſt inevi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bly at<g ref="char:EOLhyphen"/>tend them thereby.</p>
+               <p>The Souldiers here are extreamly ſick<g ref="char:EOLhyphen"/>ly, and dye of a kind of Spotted Feaver: ſome have gone to b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d well a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> night, and found dead in the morning: and the Soul<g ref="char:EOLhyphen"/>diers being ſent throughout the Country to Quarter, have brought the Infection a<g ref="char:EOLhyphen"/>long with them.</p>
+               <p>We hea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that <hi>Macc<gap reason="illegible" resp="#APEX" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> is certainly go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and great Rejoycings.</p>
+               <p>Collonel <hi>Butler</hi> who is Governour of this place now, and had a Regiment, brought but Eighty Men from the Campagne; he is daily getting Re<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruits; but thoſe who now Lift themſelves in hopes of a little Winters Plunder, will I am ſure deſert when they know they are to go upon Service.</p>
+               <p>Captain <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> who brought over my Lord <hi>Dever</hi> from <hi>France,</hi> is turned out of his Command, his Lordſhip having ac<g ref="char:EOLhyphen"/>cuſed him, for being the cauſe why a cer<g ref="char:EOLhyphen"/>tain Ship of Arms which accompanyed them was taken.</p>
+               <p>King <hi>James</hi> has diſpoſed of the Ship, but I hear not to who. The <hi>Iriſh</hi> here are daily looking out for French Succors. I with the Engliſh Fl<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> did but appear up<g ref="char:EOLhyphen"/>on the C<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, and had any Landing Men on Board, it might do great Execution upon them, now at a time they expect and only rely upon what Forreign Force they ſhall have, and are unprovided to re<g ref="char:EOLhyphen"/>ceive ſuch G<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s. <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to your good Family, and believe me always,</p>
+               <closer>
+                  <signed>Your moſt Affectionate Brother,</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>H. Younge near Ludgate.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
